@@ -1,6 +1,8 @@
 # ForumAvaliativo
 Tarefa do Forum Avaliativo
 
+Arquivo alterado na branch Marcus.
+
 Título da Atividade: Introdução ao Git para Gerência de Configuração de Software
 Grupos: até três pessoas (pode ser feito individualmente se preferir). No caso de grupo, todos os integrantes devem postar as respostas.
 
