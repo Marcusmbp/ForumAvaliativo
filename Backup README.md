@@ -1,1 +1,0 @@
-Alterações de Dev2.
