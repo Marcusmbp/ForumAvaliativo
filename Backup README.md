@@ -1,2 +1,2 @@
-Alterações Marcus
+Alterações Marcus.
 Alterações de Dev2
